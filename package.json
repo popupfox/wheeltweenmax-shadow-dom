@@ -1,6 +1,6 @@
 {
   "name": "wheeltweenmax",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Winwheel with tweenmax plugin",
   "main": "index.js",
   "scripts": {
